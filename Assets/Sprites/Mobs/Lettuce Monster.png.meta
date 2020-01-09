@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 35cc4a443584748b38e8895dd5159a66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6760782627700326208
+    second: Lettuce Monster_0
+  - first:
+      213: 5133204470800544725
+    second: Lettuce Monster_1
+  - first:
+      213: -7933498680666615419
+    second: Lettuce Monster_2
+  - first:
+      213: 3249561504066632831
+    second: Lettuce Monster_3
+  - first:
+      213: -581524075209025270
+    second: Lettuce Monster_4
+  - first:
+      213: -1783696139034152881
+    second: Lettuce Monster_5
+  - first:
+      213: -4652307353621041743
+    second: Lettuce Monster_6
+  - first:
+      213: -5057603252985772730
+    second: Lettuce Monster_7
+  - first:
+      213: 7094846101337193433
+    second: Lettuce Monster_8
+  - first:
+      213: 1839561046207394528
+    second: Lettuce Monster_9
+  - first:
+      213: -3003871443592895418
+    second: Lettuce Monster_10
+  - first:
+      213: -8563456218188124426
+    second: Lettuce Monster_11
+  - first:
+      213: -5789665640894785390
+    second: Lettuce Monster_12
+  - first:
+      213: 5060419598818488453
+    second: Lettuce Monster_13
+  - first:
+      213: -1601973394352936093
+    second: Lettuce Monster_14
+  - first:
+      213: 6252820608736122405
+    second: Lettuce Monster_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lettuce Monster_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6806
+        width: 1808
+        height: 1806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887bffea2be94a2bb5f298a11291221
+      internalID: 6760782627700326208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_1
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 6798
+        width: 1808
+        height: 1806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9770595de33194185a9d387c5c186cbc
+      internalID: 5133204470800544725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_2
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 6802
+        width: 1808
+        height: 1806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e404065ba2d64263b1e53d36b23d25a
+      internalID: -7933498680666615419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_3
+      rect:
+        serializedVersion: 2
+        x: 6609
+        y: 6785
+        width: 1808
+        height: 1806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d518e10e83a324c2b9f25cdbe5144bf4
+      internalID: 3249561504066632831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 4493
+        width: 1733
+        height: 1812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7817ff69ce20c43af82b25a1f1e422d3
+      internalID: -581524075209025270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_5
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 4497
+        width: 1733
+        height: 1812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e249481429e4674a50e4828f6aac9a
+      internalID: -1783696139034152881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_6
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 4481
+        width: 1733
+        height: 1812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a710e9a207f624cf8acce91523eff264
+      internalID: -4652307353621041743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_7
+      rect:
+        serializedVersion: 2
+        x: 6739
+        y: 4476
+        width: 1733
+        height: 1787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab95ca4b6ac8e434fac163bd49b26fa4
+      internalID: -5057603252985772730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2281
+        width: 1733
+        height: 1812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4af2acd0ae4ebe95dcba319944673
+      internalID: 7094846101337193433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_9
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 2286
+        width: 1733
+        height: 1812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2398f44e8acb54ce189df3e1358c390a
+      internalID: 1839561046207394528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_10
+      rect:
+        serializedVersion: 2
+        x: 4561
+        y: 2294
+        width: 1733
+        height: 1812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b264416391641488ba8f8045d43167
+      internalID: -3003871443592895418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_11
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 2277
+        width: 1733
+        height: 1812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c883e26460d74ec48712ce2f163061b
+      internalID: -8563456218188124426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 1808
+        height: 1806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcfaab6fbd664b50aa00851d74794df
+      internalID: -5789665640894785390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_13
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 6
+        width: 1808
+        height: 1806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf7cd2fa7ce43709c7400b86a3ec1f
+      internalID: 5060419598818488453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_14
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 0
+        width: 1808
+        height: 1806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba796eb2c38741a28e68d426cfa797a
+      internalID: -1601973394352936093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lettuce Monster_15
+      rect:
+        serializedVersion: 2
+        x: 6470
+        y: 6
+        width: 1808
+        height: 1806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19ab5366b7164e1e85a412db2a62514
+      internalID: 6252820608736122405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

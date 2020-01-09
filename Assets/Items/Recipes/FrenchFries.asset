@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e71272e830880c246b359abfeb98e295, type: 3}
+  m_Name: FrenchFries
+  m_EditorClassIdentifier: 
+  id: ce746f511bc261c46b183c4b1cd2070d
+  Name: FrenchFries
+  Level: 1
+  Reputation: 150
+  Food: {fileID: 11400000, guid: a2eac1fb5ceaf73448239f2777a24074, type: 2}
+  Ingredients:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 7d34751e9eccf47b5bbb4eaac3742013, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 7d34751e9eccf47b5bbb4eaac3742013, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 7d34751e9eccf47b5bbb4eaac3742013, type: 2}
+  - {fileID: 0}

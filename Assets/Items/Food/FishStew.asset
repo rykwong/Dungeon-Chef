@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f215de45f6f264443a1034ecef7d79b2, type: 3}
+  m_Name: FishStew
+  m_EditorClassIdentifier: 
+  id: e1038ca0ea1c5bf46b9df86e71cd9b70
+  Name: FishStew
+  Sprite: {fileID: -1003898156666103555, guid: 2480f8b0e544f744f8f2aa7cae80c404, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e71272e830880c246b359abfeb98e295, type: 3}
+  m_Name: LettuceWrap
+  m_EditorClassIdentifier: 
+  id: bdb88c9d37a14f24da581f24a1de6d9a
+  Name: LettuceWrap
+  Level: 3
+  Reputation: 250
+  Food: {fileID: 11400000, guid: e1b663e02b75b154cb4111696d528b01, type: 2}
+  Ingredients:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 94ddde6d13525944dbc1f245974cb997, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 94ddde6d13525944dbc1f245974cb997, type: 2}
+  - {fileID: 11400000, guid: ed188c5c76ce84c4595b21da5988d38c, type: 2}
+  - {fileID: 11400000, guid: 94ddde6d13525944dbc1f245974cb997, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 94ddde6d13525944dbc1f245974cb997, type: 2}
+  - {fileID: 0}
