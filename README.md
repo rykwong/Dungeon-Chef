@@ -1,2 +1,2 @@
 # Dungeon-Chef
-https://purpleberries.itch.io/dungeonchef
+Link to game here: https://purpleberries.itch.io/dungeonchef
